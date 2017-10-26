@@ -1,0 +1,7 @@
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\PlayerBullet.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\MainPanel.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\EnemyBullet.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\Enemy.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\Game.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\Bomb.java"
+"C:\\Documents and Settings\\hygj\\桌面\\雷电课设\\lightning\\Blast.java"
